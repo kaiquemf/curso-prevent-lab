@@ -18,4 +18,41 @@ public class Beneficiario {
 		this.beneficiarioIdade = beneficiarioIdade;
 		this.beneficiarioAtivo = beneficiarioAtivo;
 	}
+
+// Getters and Setters
+	
+	public String getBeneficiarioNome() {
+		return this.beneficiarioNome;
+	}
+
+	public void setBeneficiarioNome(String beneficiarioNome) {
+		this.beneficiarioNome = beneficiarioNome;
+	}
+
+	public String getBeneficiarioCpf() {
+		return this.beneficiarioCpf;
+	}
+
+	public void setBeneficiarioCpf(String beneficiarioCpf) {
+		this.beneficiarioCpf = beneficiarioCpf;
+	}
+
+	public int getBeneficiarioIdade() {
+		return this.beneficiarioIdade;
+	}
+
+	public void setBeneficiarioIdade(int beneficiarioIdade) {
+		this.beneficiarioIdade = beneficiarioIdade;
+	}
+
+	public boolean isBeneficiarioAtivo() {
+		return this.beneficiarioAtivo;
+	}
+
+	public void setBeneficiarioAtivo(boolean beneficiarioAtivo) {
+		this.beneficiarioAtivo = beneficiarioAtivo;
+	}
+	
+	
+	
 }

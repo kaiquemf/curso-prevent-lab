@@ -4,7 +4,7 @@ public class Beneficiario {
 	private    String beneficiarioNome;
 	private    String beneficiarioCpf;
 	private 	  int beneficiarioIdade;
-	protected boolean beneficiarioAtivo;
+	protected  boolean beneficiarioAtivo;
 	
 //  Constructors
 	
@@ -52,7 +52,5 @@ public class Beneficiario {
 	public void setBeneficiarioAtivo(boolean beneficiarioAtivo) {
 		this.beneficiarioAtivo = beneficiarioAtivo;
 	}
-	
-	
 	
 }

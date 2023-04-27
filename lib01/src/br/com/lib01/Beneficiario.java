@@ -1,10 +1,11 @@
 package br.com.lib01;
 
 public class Beneficiario {
-	private    String beneficiarioNome;
-	private    String beneficiarioCpf;
-	private 	  int beneficiarioIdade;
+	private    String  beneficiarioNome;
+	private    String  beneficiarioCpf;
+	private 	  int  beneficiarioIdade;
 	protected  boolean beneficiarioAtivo;
+	public static long qttdBeneficiarios;
 	
 //  Constructors
 	
@@ -17,6 +18,7 @@ public class Beneficiario {
 		this.beneficiarioCpf   = beneficiarioCpf;
 		this.beneficiarioIdade = beneficiarioIdade;
 		this.beneficiarioAtivo = beneficiarioAtivo;
+		Beneficiario.qttdBeneficiarios++;
 	}
 
 // Getters and Setters

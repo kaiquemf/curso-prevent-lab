@@ -1,0 +1,29 @@
+1 - Escreva um programa que imprima os números de 1 a 10 usando um loop for.
+2 - Escreva um programa que peça ao usuário para digitar um número e imprima se o número é par ou ímpar.
+3 - Escreva um programa que imprima a seguinte série: 1, 2, 4, 7, 11, 16, 22, 29, 37, 46, ...
+4 - Escreva um programa que peça ao usuário para digitar uma string e imprima a string em ordem reversa.
+5 - Escreva um método static chamado contarVogais que receba uma string como argumento e retorne o número de vogais na string.
+6 - Escreva um método static chamado converterCamelCase que receba uma string em formato CamelCase e retorne a mesma string com as palavras separadas por espaços em branco.
+7 - Escreva um método static chamado substituirPalavra que receba uma string, uma palavra a ser substituída e uma nova palavra como argumentos, e retorne uma nova string com a palavra original substituída pela nova palavra.
+8 - Escreva um método static chamado encontrarMaiorNumero que receba dois números inteiros como argumentos e retorne o maior deles.
+9 - Faça um programa que calcule a soma dos números ímpares entre 1 e 100 utilizando a estrutura de repetição while.
+10 - Faça um programa que leia uma senha (número inteiro) do usuário e só permita o acesso caso a senha seja 1234. O programa deve exibir uma mensagem de erro e pedir a senha novamente caso o usuário digite uma senha incorreta. Utilize a estrutura de repetição do-while.
+11 - Faça um programa que leia uma palavra do usuário e exiba quantas vogais a palavra possui. O programa deve permitir que o usuário digite quantas palavras quiser e só deve parar quando o usuário digitar a palavra "sair".
+12 - Escreva um programa que peça ao usuário para digitar um número e imprima a soma dos dígitos desse número. Por exemplo, se o usuário digitar 123, o programa deve imprimir "6" (que é a soma de 1 + 2 + 3).
+13 - Escreva um programa que peça ao usuário para digitar uma série de números e pare de ler a entrada quando o usuário digitar "-1". Em seguida, calcule e imprima a média dos números digitados (excluindo o "-1").
+14 - Faça um programa que leia um número inteiro positivo do usuário e exiba todos os números pares menores ou iguais a esse número utilizando a estrutura de repetição do-while.
+15 - Escreva um programa Java que usa o laço for para calcular a tabuada de multiplicação para um número digitado pelo usuário. Este número deve estar entre 1 e 10 (inclusive).
+  Informe um valor entre 1 e 10: 8
+
+  A tabuada do número 8 é:
+
+  8 X 1 = 8
+  8 X 2 = 16
+  8 X 3 = 24
+  8 X 4 = 32
+  8 X 5 = 40
+  8 X 6 = 48
+  8 X 7 = 56
+  8 X 8 = 64
+  8 X 9 = 72
+  8 X 10 = 80

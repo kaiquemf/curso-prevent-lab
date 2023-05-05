@@ -5,6 +5,7 @@ public class Beneficiario {
 	private    String  beneficiarioCpf;
 	private 	  int  beneficiarioIdade;
 	protected  boolean beneficiarioAtivo;
+	public     long    beneficiarioID;
 	public static long qttdBeneficiarios;
 	
 //  Constructors
@@ -53,6 +54,10 @@ public class Beneficiario {
 
 	public void setBeneficiarioAtivo(boolean beneficiarioAtivo) {
 		this.beneficiarioAtivo = beneficiarioAtivo;
+	}
+	
+	public long getBeneficiarioId() {
+		return this.beneficiarioID;
 	}
 	
 }

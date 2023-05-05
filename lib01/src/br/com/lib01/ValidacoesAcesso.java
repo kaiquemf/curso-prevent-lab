@@ -10,4 +10,5 @@ public class ValidacoesAcesso {
 					" Por favor efetue o pagamento!");
 		}
 	}
+	
 }

@@ -12,7 +12,6 @@ public class Sistema {
 	
 	ValidacoesAcesso.ValidacaoPlanoAtivo(benef1);
 	ValidacoesAcesso.ValidacaoPlanoAtivo(benef2);
-	System.out.println(Beneficiario.qttdBeneficiarios);
 	
 	}
 }
